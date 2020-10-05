@@ -3760,7 +3760,7 @@ img {
 	width: 100%;
 	position: absolute;
 	float: right;
-	animation: rotar 50s infinite linear;
+	animation: rotar 25s infinite linear;
 	transform-style: preserve-3d;
 }
 
