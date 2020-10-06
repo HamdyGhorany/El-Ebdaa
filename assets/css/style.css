@@ -145,7 +145,7 @@ h6 {
 #header.header-scrolled,
 #header.header-inner-pages {
   background-image: url(https://startbootstrap.com/assets/img/overlay.svg),
-  linear-gradient(45deg, #dd3d31 0%, #2328d2 100%);
+  linear-gradient(45deg, #dd3131 0%, #5623d2 100%);
   box-shadow: 3px -4px 15px 14px #7777;
 }
 
@@ -1984,7 +1984,6 @@ section {
 .price-tabs .nav-link {
   color: #37517e;
   font-weight: 500;
-  font-family: "Montserrat", sans-serif;
   font-size: 16px;
   padding: 12px 35px;
   display: inline-block;
