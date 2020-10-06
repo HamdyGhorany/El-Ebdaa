@@ -3851,7 +3851,6 @@ img {
 
 #slideshow {
 	margin: 0 auto;
-	padding-top: 50px;
 	height: 400px;
 	width: 100%;
 	box-sizing: border-box;
@@ -3869,7 +3868,6 @@ img {
 }
 
 .sub-heading {
-	padding-top: 50px;
 	font-size: 18px;
 } .sub-heading-two {
 	font-size: 15px;
@@ -3894,7 +3892,7 @@ img {
 	width: 190px;
 	perspective: 1000px;
 	position: relative;
-	padding-top: 80px;
+	padding-top: 30px;
 }
 
 .content-carrousel {
